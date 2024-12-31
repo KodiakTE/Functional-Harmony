@@ -1,5 +1,5 @@
-# Mantine Next Template
+# Functional Harmony Web App
+A web app that creates randomized chord progressions that you can use to create music
 
-Get started with the template by clicking `Use this template` button on the top of the page.
 
-[Documentation](https://mantine.dev/guides/next/)
+Run app with command `npm run dev`
